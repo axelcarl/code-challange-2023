@@ -4,6 +4,11 @@ This is my submission to your code challange!
 
 To get all required modules, run  "npm init".
 
+To run the script, insert a prefix in the script file and
+simply run with "node index.js" or "npm run main"
+
+To run the tests, simply use "npm run test" or "npx jest"
+
 jest.js is used for unit-testing.
 
 data.txt is just a copy of the example operators specified in the
